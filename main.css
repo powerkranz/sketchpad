@@ -1,4 +1,4 @@
-#grid {
+#container {
   margin: auto;
   width: 50%;
 }
@@ -10,8 +10,22 @@
 }
 
 h1 {
+  font-size: 32pt;
   margin: auto;
   text-align: center;
+}
+
+.buttons {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.button {
+  background-color: currentColor;
+  padding: 15px 32px;
+  position: absolute;
+  top: 50%;
+  font-size: 14pt;
 }
 
 /* #activated {
