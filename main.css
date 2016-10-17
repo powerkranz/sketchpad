@@ -1,0 +1,21 @@
+#grid {
+  margin: auto;
+  width: 50%;
+}
+
+#square {
+  background: black;
+  width: 30px;
+  height: 30px;
+}
+
+h1 {
+  margin: auto;
+  text-align: center;
+}
+
+/* #activated {
+  background: red;
+  width: 30px;
+  height: 30px;
+}
